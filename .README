@@ -1,0 +1,6 @@
+Welcome to Quizzler! The best place to learn and quiz yourself on knew topics. Quizzler is built around AI,
+using the OpenAI API to grade your quizzes so you don't have to answer word for word!
+
+USER INSTRUCTIONS:
+Download the given files, you'll need to generate your own OpenAI API key. Put your key in the
+marked spot in the server.js. Run npm install, then npm start to start your Quizzle journey.
